@@ -5,7 +5,7 @@
 
 ## Overview
 
-This terrform module creates private certificate using AWS ACM and Private CA. The provisioned certificates will be found under AWS Certificate Manager and the type will be `private`
+This terrform module creates a private certificate using AWS ACM and Private CA. The provisioned certificate will be found under AWS Certificate Manager and the type will be `private`.
 
 ## Usage
 A sample variable file `example.tfvars` is available in the root directory which can be used to test this module. User needs to follow the below steps to execute this module
